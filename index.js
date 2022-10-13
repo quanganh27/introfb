@@ -8,23 +8,23 @@ const innerClass = () => {
     <div class = "flipper">
       <div class="front">
         <div class = "front-bg">
-          <img src="./assets/logo.png">
+          <img src="./assets/logo.jpg">
         </div>
       </div>
       <div class="back">
         <div class = "back-bg">
-          <img src="./assets/logo.png">
+          <img src="./assets/logo.jpg">
         </div>
         <div class = "back-conent">
-          <h1>Stylish Joker</h1>
-          <p>PTK - DTMA</p>
+          <h1>Quang Anh</h1>
+          <p>LQA</p>
           <div class = "icons">
             <div class = "icon-group">
               <span class = "bold"><i class="fa-solid fa-phone"></i></span>
-              <span class = "contact">0362272070</span>
+              <span class = "contact">0965916586</span>
               <div class = "icon-group">
                 <span class = "bold"><i class="fa-solid fa-envelope"></i></i></span>
-                <a class = "contact">animetplink@gmail.com</a>
+                <a class = "contact">quanganhluong19@gmail.com</a>
               </div>
               <div class = "icon-group">
                 <span class = "bold"><i class="fa-solid fa-globe"></i></span>
@@ -32,12 +32,12 @@ const innerClass = () => {
               </div>
             </div>
           </div>
-          <a href="https://www.facebook.com/nobless.anime/"  target = "_blank"class = "icon-box"><i class="fa-brands fa-facebook"></i></a>
+          <a href="https://www.facebook.com/quanganh.luong.921"  target = "_blank"class = "icon-box"><i class="fa-brands fa-facebook"></i></a>
           <a href="#" target = "_blank" class = "icon-box"><i class="fa-brands fa-twitter"></i></a>
           <a href="#" target = "_blank" class = "icon-box"><i class="fa-brands fa-google"></i></a>
-          <a href="#" target = "_blank" class = "icon-box"><i class="fa-brands fa-linkedin"></i></a>
+          <a href="https://www.instagram.com/quanganh.luong.921/" target = "_blank" class = "icon-box"><i class="fa-brands fa-linkedin"></i></a>
           <a href="#" target = "_blank" class = "icon-box"><i class="fa-brands fa-dribbble"></i></a>
-          <a href="https://github.com/stylishjoker" target = "_blank" class = "icon-box"><i class="fa-brands fa-github"></i></a>
+          <a href="https://github.com/quanganh27/" target = "_blank" class = "icon-box"><i class="fa-brands fa-github"></i></a>
         </div>
         
       </div>

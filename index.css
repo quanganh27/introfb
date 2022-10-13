@@ -49,7 +49,7 @@
 }
 .front {
   /* background-image: url(assets/logo.png); */
-  background-color: #000;
+  background-color: #06100f;
   background-size: cover;
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
   transform: rotateY(0deg);
@@ -163,7 +163,7 @@
   display: flex;
   flex-direction: column;
   width: 20%;
-  background-color: #000;
+  background-color: #06100f;
   justify-content: center;
   align-items: center;
 }
