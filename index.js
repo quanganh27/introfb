@@ -17,7 +17,7 @@ const innerClass = () => {
         </div>
         <div class = "back-conent">
           <h1>Quang Anh</h1>
-          <p>LQA</p>
+          <p>LDQA-1CI</p>
           <div class = "icons">
             <div class = "icon-group">
               <span class = "bold"><i class="fa-solid fa-phone"></i></span>
